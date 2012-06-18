@@ -1,0 +1,5 @@
+kcalc (4.8.4-1) unstable; urgency=low
+
+  * Initial release split from kdeutils.
+
+ -- Sune Vuorela <sune@debian.org>  Mon, 18 Jun 2012 01:22:08 +0200
