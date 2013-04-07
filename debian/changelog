@@ -1,3 +1,11 @@
+kcalc (4:4.10.2-1) UNRELEASED; urgency=low
+
+  * New upstream.
+  * Update uploaders.
+  * Bump build-deps.
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 16:55:32 +0000
+
 kcalc (4:4.8.4-2) unstable; urgency=low
 
   * Package disappeared from the archive due to missing epoch. Readd and
