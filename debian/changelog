@@ -1,10 +1,10 @@
-kcalc (4:4.10.2-1) UNRELEASED; urgency=low
+kcalc (4:4.10.2-1) experimental; urgency=low
 
   * New upstream.
   * Update uploaders.
   * Bump build-deps.
 
- -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 16:55:32 +0000
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 17:01:30 +0000
 
 kcalc (4:4.8.4-2) unstable; urgency=low
 
