@@ -2,20 +2,24 @@ Source: kcalc
 Section: math
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Fathi Boudra <fabo@debian.org>, Sune Vuorela <sune@debian.org>, Modestas Vainius <modax@debian.org>,
+Uploaders: Fathi Boudra <fabo@debian.org>,
+           Sune Vuorela <sune@debian.org>,
+           Modestas Vainius <modax@debian.org>,
            George Kiagiadakis <kiagiadakis.george@gmail.com>,
            Eshat Cakar <info@eshat.de>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11),
- libgmp-dev
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libgmp-dev,
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.4
 
 Package: kcalc
 Section: math
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: simple and scientific calculator
  KCalc is a scientific calculator.
  .
