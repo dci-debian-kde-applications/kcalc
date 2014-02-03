@@ -2,6 +2,7 @@ kcalc (4:4.11.5-1) UNRELEASED; urgency=medium
 
   * New upstream release.
   * Add Vcs fields.
+  * Add autopkgtests.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 03 Feb 2014 12:14:40 +0100
 
