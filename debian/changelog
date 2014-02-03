@@ -4,6 +4,7 @@ kcalc (4:4.11.5-1) UNRELEASED; urgency=medium
   * Add Vcs fields.
   * Add autopkgtests.
   * Add Homepage field.
+  * Bump Standards-Version to 3.9.5, no changes needed.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 03 Feb 2014 12:14:40 +0100
 
