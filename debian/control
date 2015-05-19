@@ -23,7 +23,7 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5notifications-dev,
                libkf5xmlgui-dev,
                pkg-kde-tools (>= 0.12),
-               qtbase5-dev (>= 5.2.0~)
+               qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://www.kde.org/
