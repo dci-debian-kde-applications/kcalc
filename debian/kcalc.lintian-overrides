@@ -1,0 +1,4 @@
+kcalc: package-name-doesnt-match-sonames libkdeinit5-kcalc
+kcalc: binary-without-manpage usr/bin/kcalc
+kcalc: shlib-without-versioned-soname usr/lib/x86_64-linux-gnu/libkdeinit5_kcalc.so libkdeinit5_kcalc.so
+kcalc: postinst-must-call-ldconfig usr/lib/x86_64-linux-gnu/libkdeinit5_kcalc.so
