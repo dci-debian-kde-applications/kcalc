@@ -1,3 +1,11 @@
+kcalc (4:15.12.3-1~1.gbpa0354c) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @a0354ccbaecd93c9f255e5ff826286ce67ede662 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 12:20:31 +0200
+
 kcalc (4:15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.0).
