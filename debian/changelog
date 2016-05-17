@@ -1,13 +1,16 @@
-kcalc (4:16.04.1-1~1.gbp48504c) UNRELEASED; urgency=medium
+kcalc (4:16.04.1-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @48504c429c98c232514ec2bd2b20a6ed00ec71ce **
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
 
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
   * New upstream release (16.04.1). (Closes: #822755) Thanks to Eric Valette
     for following this upstream.
-  * Bump Standards-Version to 3.9.8
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Tue, 10 May 2016 20:20:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 17 May 2016 12:41:05 +0200
 
 kcalc (4:15.12.1-1) experimental; urgency=medium
 
