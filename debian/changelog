@@ -9,6 +9,7 @@ kcalc (4:16.04.1-1) unstable; urgency=medium
     for following this upstream.
   * Add upstream metadata (DEP-12)
   * debian/control: Update Vcs-Browser and Vcs-Git fields
+  * Add new libkdeinit5_kcalc lintian-override
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 17 May 2016 12:41:05 +0200
 
