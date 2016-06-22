@@ -1,10 +1,8 @@
-kcalc (4:16.04.2-1~1.gbp5a6479) UNRELEASED; urgency=medium
+kcalc (4:16.04.2-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @5a647926215dc7a38d995cc4a902212b4d36757c **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Wed, 15 Jun 2016 02:20:13 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 22 Jun 2016 23:45:37 +0200
 
 kcalc (4:16.04.1-1) unstable; urgency=medium
 
