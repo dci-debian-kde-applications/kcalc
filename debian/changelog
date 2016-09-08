@@ -1,11 +1,17 @@
-kcalc (4:16.08.0-1~1.gbpe1d2f1) UNRELEASED; urgency=medium
+kcalc (4:16.08.1-1~1.gbp9c816b) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @9c816bd8abc31e5d4219fc9e12ff8b201b86b7dd **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @e1d2f1ae55ece0145d8981471b83b70dd12963ce **
 
   * UNRELEASED
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 20:20:11 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 20:20:42 +0200
 
 kcalc (4:16.04.2-1) unstable; urgency=medium
 
