@@ -1,18 +1,12 @@
-kcalc (4:16.08.2-1~1.gbp0b6119) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @0b6119fd71c9e4a17ce8c26deef1dc3946748869 **
+kcalc (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @e1d2f1ae55ece0145d8981471b83b70dd12963ce **
-
-  * UNRELEASED
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 20:20:24 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 17 Oct 2016 23:15:41 +0200
 
 kcalc (4:16.04.2-1) unstable; urgency=medium
 
