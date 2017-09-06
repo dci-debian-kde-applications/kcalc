@@ -32,6 +32,8 @@ Package: kcalc
 Section: math
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: simple and scientific calculator
  KCalc is a scientific calculator.
  .
