@@ -27,7 +27,6 @@ Vcs-Browser: https://anonscm.debian.org/git/pkg-kde/applications/kcalc.git
 Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/kcalc.git
 
 Package: kcalc
-Section: math
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Breaks: ${kde-l10n:all}
